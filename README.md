@@ -2,9 +2,9 @@
 
 📌 Descrição do Projeto
 
-O Gerenciador de Vulnerabilidades é uma aplicação desenvolvida com o objetivo de registrar, acompanhar, atualizar e excluir vulnerabilidades de segurança detectadas em sistemas, servidores ou redes.
+O Gerenciador de Vulnerabilidades será uma aplicação desenvolvida com o objetivo de registrar, acompanhar, atualizar e excluir vulnerabilidades de segurança detectadas em sistemas, servidores ou redes.
 
-Este projeto foi desenvolvido como parte da disciplina Tecnologias Emergentes, atendendo ao requisito de criar uma aplicação funcional com operações CRUD (Create, Read, Update e Delete) e persistência de dados em banco de dados.
+Este projeto está sendo desenvolvido como parte da disciplina Tecnologias Emergentes, atendendo ao requisito de criar uma aplicação funcional com operações CRUD (Create, Read, Update e Delete) e persistência de dados em banco de dados.
 
 ---
 
@@ -18,11 +18,11 @@ O objetivo da aplicação é auxiliar profissionais e equipes de segurança da i
 
 - Linguagem de Programação: Python
 - Framework Backend: FastAPI
-- Banco de Dados: MySQL (ou SQLite, caso necessário)
+- Banco de Dados: MySQL
 - ORM: SQLAlchemy
 - Ferramentas de Teste: Swagger UI / Postman
 - Hospedagem de Código: GitHub
-- IDE Recomendada: Visual Studio Code
+- IDE: Visual Studio Code
 - Gerenciamento de Pacotes: pip
 
 ---
