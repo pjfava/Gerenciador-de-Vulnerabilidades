@@ -172,6 +172,10 @@ cd gerenciador-de-vulnerabilidades
 - pip
 
 ---
+## ✅ Sistema rodando
+![image](https://github.com/user-attachments/assets/71a19d7d-433e-47f5-931f-72491e55da96)
+
+---
 
 ## 👤 Desenvolvido por
 
