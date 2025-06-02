@@ -167,6 +167,29 @@ npm start
 
 ---
 
+## ✅ Práticas de Código Limpo
+
+- Organização modular em arquivos separados: `models`, `schemas`, `crud`.
+- Nomeação descritiva para variáveis, funções e componentes React.
+- Componentização no React: `FormVulnerabilidade`, `ListaVulnerabilidades`, `VulnerabilidadeItem`.
+- Tratamento de exceções no backend com FastAPI.
+- Separação de responsabilidades: CRUD isolado do modelo e da API.
+
+---
+
+## 🧪 Testes Automatizados
+
+- Utilização do Swagger UI para validação e testes automatizados da API.
+- Testes manuais de integração com Postman.
+- Estrutura preparada para inclusão de testes automatizados com `pytest` (não implementado nesta versão, mas recomendado para evolução).
+
+---
+
+## 🔁 Padrões de Projeto Aplicados
+
+- **Repository Pattern:** Separação das operações CRUD (`crud.py`) isolando a lógica de persistência dos modelos (`models.py`) e da API (`main.py`).
+- **Componentização no Frontend:** Organização de componentes funcionais e reutilizáveis em ReactJS.
+
 ## 👤 Desenvolvido por
 
 - **Nome:** Paulo Fava  
