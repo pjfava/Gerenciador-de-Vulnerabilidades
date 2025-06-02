@@ -151,13 +151,6 @@ npm start
 - O frontend consome a API desenvolvida no backend via **Axios**.
 - CORS foi configurado para permitir o funcionamento local.
 
----
-
-## 📦 Como clonar e rodar o projeto
-
-```bash
-git clone https://github.com/seu-usuario/gerenciador-de-vulnerabilidades.git
-cd gerenciador-de-vulnerabilidades
 ```
 
 ➡️ Em seguida, siga as instruções de **Backend** e **Frontend**.
