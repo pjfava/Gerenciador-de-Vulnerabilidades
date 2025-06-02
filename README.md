@@ -151,16 +151,6 @@ npm start
 - O frontend consome a API desenvolvida no backend via **Axios**.
 - CORS foi configurado para permitir o funcionamento local.
 
-
----
-
-## ✅ Requisitos para rodar
-
-- Python 3.8+
-- Node.js 14+
-- npm
-- pip
-
 ---
 ## ✅ Sistema rodando
 ![image](https://github.com/user-attachments/assets/71a19d7d-433e-47f5-931f-72491e55da96)
@@ -189,6 +179,8 @@ npm start
 
 - **Repository Pattern:** Separação das operações CRUD (`crud.py`) isolando a lógica de persistência dos modelos (`models.py`) e da API (`main.py`).
 - **Componentização no Frontend:** Organização de componentes funcionais e reutilizáveis em ReactJS.
+
+---
 
 ## 👤 Desenvolvido por
 
