@@ -151,9 +151,6 @@ npm start
 - O frontend consome a API desenvolvida no backend via **Axios**.
 - CORS foi configurado para permitir o funcionamento local.
 
-```
-
-➡️ Em seguida, siga as instruções de **Backend** e **Frontend**.
 
 ---
 
